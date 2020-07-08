@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MpesaDaraja</string>
+    <string name="mpesa_consumer_key">YZKLO1coR3sC3BpMTLW8Jw2LLwSInLAI</string>
+    <string name="mpesa_consumer_secret">thFhg6N8vQMxTi87</string>
+    <string name="mpesa_test_online_shortcode">174379</string>
+    <string name="mpesa_test_online_passkey">bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919</string>
+</resources>
